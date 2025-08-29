@@ -22,8 +22,9 @@ Adaptive SoC, FPGA, AI engines, AMD Kria, Parallel Computing
 ## How to Read
 - You can view the uploaded document `Exploring the SoM Architecture with AMD Kria.pdf` directly in this repository.
 
-## Author
-- Sai Mani Ritish Upadhyayula  
+## Authors
+- Sai Mani Ritish Upadhyayula
+- Ayush Kumar Gupta 
 
 ## License
 This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See the [LICENSE](LICENSE) file for more details.
